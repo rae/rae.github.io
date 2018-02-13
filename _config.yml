@@ -12,3 +12,5 @@ github_username:  rae
 # Build settings
 markdown: kramdown
 highliter: pygments
+
+theme: jekyll-theme-architect
